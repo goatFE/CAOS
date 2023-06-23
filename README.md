@@ -12,5 +12,5 @@ Computer Architecture + Operation System (혼공컴운 책 스터디)
 | 2023.05.30 | 5-1 | ![51희](https://github.com/goatFE/CAOS/assets/50111853/dabfd0ee-15ef-4728-ae0a-de4b9ad4da80) | ![52하](https://github.com/goatFE/CAOS/assets/50111853/891528ad-7aa5-4ed0-b84e-abdd34c2ba32)|
 | 2023.06.07 | 5-2 | ![52희](https://github.com/goatFE/CAOS/assets/50111853/ffdd732a-4b54-424e-8781-f43e2bcc622e) | ![52하](https://github.com/goatFE/CAOS/assets/50111853/19f33a1c-7c85-45d1-b98c-6a794bb22c88)|
 | 2023.06.12 | 6 | <img width="1009" alt="6희" src="https://github.com/pullingoff/CAOS/assets/50111853/ffc9351d-c5cf-4dfd-b74d-afff6ac07e7b">| <img width="948" alt="6하" src="https://github.com/pullingoff/CAOS/assets/50111853/0d39f380-b6fd-471b-8ba4-0c8b76f897ee">  |
-| 2023.06.19 | 7 |     | ![IMG_3369](https://github.com/pullingoff/CAOS/assets/50111853/92c088c5-8670-402c-910b-71fa669c4423)|
+| 2023.06.19 | 7 |  ![230619혼공스터디](https://github.com/goatFE/CAOS/assets/135410491/1674e0fb-20d7-4fec-b4ae-8d3706b91607) | ![IMG_3369](https://github.com/pullingoff/CAOS/assets/50111853/92c088c5-8670-402c-910b-71fa669c4423)|
 |            |         |     |   |
