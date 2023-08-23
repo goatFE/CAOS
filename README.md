@@ -18,3 +18,6 @@ Computer Architecture + Operation System (혼공컴운 책 스터디)
 | 2023.07.11 | 5-6장 복습 | ![복습2 희정](./assets/rev2h.jpg) | ![복습2 하은](./assets/rev2p.jpg) |
 | 2023.07.12 | 7-8장 복습 | ![복습3 희정](./assets/rev3h.jpg) | ![복습2 하은](./assets/rev3p.jpg) |
 | 2023.07.24 | 9 | ![9장 희정](./assets/9h.jpg) | ![9장 하은](./assets/9p.jpg) |
+| 2023.07.31 | 10 | ![10장 희정](./assets/10h.jpg) | ![10장 하은](./assets/10p.jpg) |
+| 2023.08.07 | 11 | ![11장 희정](./assets/11h.jpg) | ![11장 하은](./assets/11p.jpg) |
+| 2023.08.14 | 12 | ![12장 희정](./assets/12h.jpg) | ![12장 하은](./assets/12p.JPG) |
