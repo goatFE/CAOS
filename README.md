@@ -21,3 +21,4 @@ Computer Architecture + Operation System (혼공컴운 책 스터디)
 | 2023.07.31 | 10 | ![10장 희정](./assets/10h.jpg) | ![10장 하은](./assets/10p.jpg) |
 | 2023.08.07 | 11 | ![11장 희정](./assets/11h.jpg) | ![11장 하은](./assets/11p.jpg) |
 | 2023.08.14 | 12 | ![12장 희정](./assets/12h.jpg) | ![12장 하은](./assets/12p.JPG) |
+| 2023.08.21 | 13 | ![13장 희정](./assets/13h.jpg) | ![13장 하은](./assets/13p.jpg) |
